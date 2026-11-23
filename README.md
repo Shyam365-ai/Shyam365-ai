@@ -50,12 +50,6 @@ I enjoy exploring programming, artificial intelligence, data analytics, and soft
 ### 1. Aegis – AI Disaster Intelligence System
 An AI-based disaster intelligence project focused on disaster risk assessment, environmental monitoring and visualization.
 
-### 2. Disaster Management System
-A technology-driven project focused on disaster management and monitoring.
-
-### 3. AI Disaster Drones
-An exploration of AI-based drone applications for disaster-related scenarios.
-
 ---
 
 ## Currently Learning
